@@ -24,5 +24,9 @@ class StringTest {
 		assertFalse(str.contains("lelo"));
 		
 	}
+	@Test 
+	void compareToTest() {
+		//TODO
+	}
 
 }
